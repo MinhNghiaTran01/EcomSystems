@@ -1,0 +1,28 @@
+{
+  "category-book": [
+    {
+      "id": 1,
+      "name": "sach trinh tham"
+    }
+  ],
+
+  "category-clothes": [
+    {
+      "id": 1,
+      "name": "sach trinh tham"
+    }
+  ],
+
+  "category-mobile": [
+    {
+      "id": 1,
+      "name": "sach trinh tham"
+    }
+  ],
+  "sach trinh tham": [
+    {
+      "id": 1,
+      "name": "diep vu 1"
+    }
+  ]
+}
